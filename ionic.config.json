@@ -1,0 +1,8 @@
+{
+  "name": "geniusplatform-ionic",
+  "app_id": "11eb5c68",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
